@@ -6,13 +6,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rushi</groupId>
 	<artifactId>student-reg-webapp</artifactId>
-	<version>1.2.24</version>
+	<version>1.3.1</version>
 	<packaging>war</packaging>
 	<properties>
 		<java.version>11</java.version>
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
-		<sonar.host.url>http://100.54.111.229:9000/</sonar.host.url>
+		<sonar.host.url>http://34.227.24.143:9000/</sonar.host.url>
 		<sonar.token>sqa_94694f02a272375de4d984238684a989b239bbc4</sonar.token>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
